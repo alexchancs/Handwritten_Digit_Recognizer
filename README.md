@@ -49,8 +49,11 @@ Now that you've trained your model, it's time to implement it and put it to the 
 In this section, you'll experience the practical application of your model through an interactive Graphical User Interface (GUI). You can draw your own digits and watch as the model identifies and classifies them with impressive accuracy.
 
 Stay tuned for the next steps where you will delve into implementing and interacting with your trained model in the GUI.
-![Screenshot 2023-10-20 at 9 48 08 PM](https://github.com/alexchancs/Handwritten_Digit_Recognizer/assets/116485687/3c1740a5-2cdd-4c0d-90cd-784bc344ea07)
-![Screenshot 2023-10-20 at 9 49 38 PM](https://github.com/alexchancs/Handwritten_Digit_Recognizer/assets/116485687/d9f6426b-0dde-4b59-a31c-eaf167701865)
+
+![Screenshot 2023-10-20 at 9 54 40 PM](https://github.com/alexchancs/Handwritten_Digit_Recognizer/assets/116485687/15cb479b-5748-45cc-859b-02f55d26e6db)
+
+
+
 
 
 
