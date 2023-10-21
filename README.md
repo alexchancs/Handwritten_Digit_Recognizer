@@ -7,7 +7,7 @@ Handwritten digit recognition is a classic problem in the field of computer visi
 
 # Getting Started
 
-To begin your journey into the world of Handwritten Digits Recognition, you'll need to set up your environment and acquire the necessary dependencies. Here's how you can get started:
+To begin your journey into the world of Handwritten digit recognition, you'll need to set up your environment and acquire the necessary dependencies. Here's how you can get started:
 
 # Install Dependencies
 
@@ -29,7 +29,7 @@ Now that you have the project and its dependencies installed, you're ready to ex
 
 # Training The Model
 
-In this section, you'll dive into the process of training your very own handwritten digits recognition model. But before we get into the nitty-gritty of the training process, let's introduce the concept.
+In this section, you'll dive into the process of training your very own handwritten digit recognition model. But before we get into the nitty-gritty of the training process, let's introduce the concept.
 
 Training a machine learning model involves teaching it to recognize patterns and make predictions. In this case, you'll train your model to recognize handwritten digits, such as those you might find on a piece of paper. To do this, we will employ Convolutional Neural Networks (CNNs), a powerful type of neural network specifically designed for image-related tasks
 
